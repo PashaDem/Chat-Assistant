@@ -13,6 +13,14 @@ This branch is the implementation of chat-assistant in the form of web-applicati
 ## Important
 This project soon will be updated to correct bad patterns and extend it.
 
+## Some images
+
+ - The representation page
+ ![representation](simple_chat/static/for_git_repo/representation.png)
+ - The messanger
+ ![messanger](simple_chat/static/for_git_repo/messanger.png)
+
+
 ## Developers
 
 1) Maksim Konovaluk - https://github.com/Maxim735 - Data Scientist(responsible for artificial intelligence)
